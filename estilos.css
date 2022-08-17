@@ -1,0 +1,84 @@
+html{
+    background-color: black;
+}
+
+*{
+    color: white;
+}
+
+#head{
+    width: 300px;
+}
+
+nav{
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(233, 145, 13);
+}
+
+h1{
+    text-align: center;
+    font-size: 150px;
+    font-family:cursive;
+}
+
+#logo{
+    width: 120px;
+    margin-left: 700px;
+    margin-top: 100px;
+}
+
+#logo2{
+    width: 400px;
+    float: right;
+    margin-right: 600px;
+    margin-top: 100px;
+}
+
+img:hover {
+    box-shadow: 0 0 20px 20px  rgb(252, 252, 252);
+}
+
+.inicio{
+    font-size: 40px;
+    text-align: center;
+}
+
+#parHorario{
+    font-size: 50px;
+    text-align: center;
+}
+
+.gim{
+    font-size: 30px;
+    text-align: center;
+}
+
+.tipo{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.subtit{
+    font-size: 80px;
+    color: black;
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.red{
+    width: 100px;
+    border-radius: 90px;
+
+}
+
+.mapa{
+    width: 100px;
+    border-radius: 90px;
+}
+
+.cont{
+    font-size: 30px;
+    text-align: center;
+}
